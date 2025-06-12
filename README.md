@@ -13,7 +13,7 @@ The webhook will also ping roles that are assigned under the roleMap in the 'Sto
 
 ## How to build your own webhook
 
-Clone the git repo and do the following command.
+Clone the git repo and install the packages using the following command.
 
 ```bash
 npm i axios dotenv blessed@0.1.81 express@5.1.0
