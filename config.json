@@ -1,0 +1,6 @@
+{
+  "IPWhitelist": false,
+  "WhitelistedIPs": ["::1"],
+  "Port": 1000,
+  "Dashboard": true
+}
