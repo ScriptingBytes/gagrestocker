@@ -27,7 +27,7 @@ Under the '.env' file you will find one entry for your Discord Webhook.
 
 There is some more changable settings under the 'config.json' file to where you can either change the port, disable the dashboard and some IP whitelisting settings.
 
-After changing all the necessary things in the repo to start the webhook process run the 'startbot.bat' file.
+After changing all the necessary things in the repo to start the webhook process run the 'start.bat' file.
 
 ---
 
